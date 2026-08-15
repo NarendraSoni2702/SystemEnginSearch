@@ -1,0 +1,6 @@
+streamlit
+httpx
+numpy
+pandas
+pypdf
+python-docx

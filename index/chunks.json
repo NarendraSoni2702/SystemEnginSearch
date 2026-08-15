@@ -1,0 +1,58 @@
+[
+  {
+    "filename": "company.txt",
+    "content": "Our company has three departments.\n\nThe IT department has 25 employees.\nThe HR department has 10 employees.\nThe Finance department has 15 employees.\n\nJohn works in the IT department.\nJohn's salary is 50000.\n\nSarah works in the HR department.\nSarah's salary is 45000.\n\nMike works in the Finance department.\nMike's salary is 55000."
+  },
+  {
+    "filename": "document1.txt",
+    "content": "Hello, this is my first AI project.\nThis file contains information that my AI will eventually learn to search."
+  },
+  {
+    "filename": "employee.csv",
+    "content": "name department salary\n John IT 50000\nSarah HR 45000\n Mike Finance 55000"
+  },
+  {
+    "filename": "Medical Report.pdf",
+    "content": "[Page 1]\n \n \n \nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35/MALE \n------------------------------------------------------------------------------------------------------------- \n HAEMATOLOGY \n------------------------------------------------------------------------------------------------------------------- \nInvestigation Observed Value Unit Biogical Reference \nCBC Haemogram \nHaemoglogin (HB) 13.0 gm/dl 12-16 \nErythrocyte(RBC) Count 4.89 mill/cu.mm. 4-5 \nPCV (Packed Cell Volume) 38.3 % 37-54 \nMCV (Mean Corpuscular Volume) 78.2 fL 80-95 \nMCH (Mean Corpuscular Haemoglobin) 26.5 pg 27-34 \nMCHC(Mean Corpuscular Hb Concn.) 33.9 g/Dl 32-36 \nRDW- CV 13.4 % 14-16 \nTotal Leucocytes (WBC) Count 10200 Cells/cu.mm 4000-11000 \nNeutrophils 55 % 40-75 \nLymphocytes 37 % 20-45 \nEosinophils 03 % 1-6 \nMonocytes 05 % 2-10 \nBasophils 00 % 0-1 \nPlatelets \nPLT Count 312000 10^3/ul 150000-450000 \nMPV (Mean Platelet Volume) 8.3 fL 8-11 \n \n \n DR. MAIKAL KUJUR MBBS, MD \n PAT"
+  },
+  {
+    "filename": "Medical Report.pdf",
+    "content": "0 \nBasophils 00 % 0-1 \nPlatelets \nPLT Count 312000 10^3/ul 150000-450000 \nMPV (Mean Platelet Volume) 8.3 fL 8-11 \n \n \n DR. MAIKAL KUJUR MBBS, MD \n PATHOLOGY (AIIMS, NEW DELHI) \n REG. NO. : CG MCI-2996/2010 \n\n[Page 2]\n \n \n \nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35/MALE \n-------------------------------------------------------------------------------------------------------------- \n CLINICAL BIOCHEMISTRY \n-------------------------------------------------------------------------------------------------------------- \nInvestigation Observed Value Unit Biogical Reference Interval \n---------------------------------------------------------------------------------------------------------------------------------------- \nGlycosalated hemoglobin ( GHb/HBA1c ) \n HBA1c 4.9 % <6.0 : Non diabetic \n 6.1- 6.5 prediabetic \n 6.6-7.0 Good control \n 7.1-8.0 poor control \n \nEstimated Average Glucose 93.7 % 70-136 \n \n \n \n \n \n \n \n \n \n \n DR. MAIKAL KUJUR MBBS, MD \n PAT"
+  },
+  {
+    "filename": "Medical Report.pdf",
+    "content": "iabetic \n 6.6-7.0 Good control \n 7.1-8.0 poor control \n \nEstimated Average Glucose 93.7 % 70-136 \n \n \n \n \n \n \n \n \n \n \n DR. MAIKAL KUJUR MBBS, MD \n PATHOLOGY (AIIMS, NEW DELHI) \n REG. NO. : CG MCI-2996/2010 \n \n \n \n\n[Page 3]\nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35/MALE \n-------------------------------------------------------------------------------------------------------------------- \nSEROLOGY \n------------------------------------------------------------------------------------------------------------------- \n Investigation Result Unit Biogical Reference Interval \n-------------------------------------------------------------------------------------------------------------------- \nHIV Card (I&II) ELISA Non- Reactive Non- Reactive \nIt is a screening test & reactive result need to confirm by altemate method like western blot \nmethod, HIV Duo by CMIA method . \nHBsAg Card Non- Reactive Non- Reactive \nMethod : HBsAg ON rapid card hepacard Adv. Quan"
+  },
+  {
+    "filename": "Medical Report.pdf",
+    "content": "te method like western blot \nmethod, HIV Duo by CMIA method . \nHBsAg Card Non- Reactive Non- Reactive \nMethod : HBsAg ON rapid card hepacard Adv. Quantitative Assay. \nDR. MAIKAL KUJUR MBBS, MD \nPATHOLOGY (AIIMS, NEW DELHI) \n REG. NO. : CG MCI-2996/2010 \n\n[Page 4]\n \n \n \nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35/MALE \n ------------------------------------------------------------------------------------------------------------- \n BIOCHEMISTRY \n-------------------------------------------------------------------------------------------------------------- \nInvestigation Observed Value Unit Biogical Reference Interval \n---------------------------------------------------------------------------------------------------------------------------------------- \nBilirubin - Total 0.80 mg/dl 0.2 - 1.3 \nBilirubin - Direct 0.21 umol/L 0 - 0.3 \nBilirubin (Indirect) 0.59 mg/dl 0 - 1.1 \nSGOT (AST) 13.7 U/L 0-46 \nSGPT (ALT) 11.0 U/L 0-40 \nAlkaline phosphatase (ALP)"
+  },
+  {
+    "filename": "Medical Report.pdf",
+    "content": "- Direct 0.21 umol/L 0 - 0.3 \nBilirubin (Indirect) 0.59 mg/dl 0 - 1.1 \nSGOT (AST) 13.7 U/L 0-46 \nSGPT (ALT) 11.0 U/L 0-40 \nAlkaline phosphatase (ALP) 68.5 U/L 30-130 \nTotal Proteins 7.1 g/dl 6.0-8.0 \nAlbumin 4.3 g/dl 3.5 - 5.0 \nGlobulin 2.8 g/dl 2.3 - 3.6 \nA/G RATIO 1.5 1.1-2.3 \n \n \n \n \n \n \n \n \n \n DR. MAIKAL KUJUR MBBS, MD \n PATHOLOGY (AIIMS, NEW DELHI) \n REG. NO. : CG MCI-2996/2010 \n \n \n \n\n[Page 5]\nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35/MALE \n------------------------------------------------------------------------------------------------------------- \n BIOCHEMISTRY \n------------------------------------------------------------------------------------------------------------------- \nDescription Result Unit Refrence Renge \nGlucose (RBS) 108.2 mg/dl 70-140\nBlood urea 21.8 mg/dl 10.0-50.0 \nCreatinine 0.81 mg/dl 0.6-1.3 \nUric Acid 4.5 mg/dl 3.6-7.2 \n 140.5 \n \nCalcuim 9.2 mg/dl 8.4-11.0 \nDR. MAIKAL KUJUR MBBS, MD \nPATHOLOGY (AIIMS, NEW DELHI)"
+  },
+  {
+    "filename": "Medical Report.pdf",
+    "content": "nine 0.81 mg/dl 0.6-1.3 \nUric Acid 4.5 mg/dl 3.6-7.2 \n 140.5 \n \nCalcuim 9.2 mg/dl 8.4-11.0 \nDR. MAIKAL KUJUR MBBS, MD \nPATHOLOGY (AIIMS, NEW DELHI) \n REG. NO. : CG MCI-2996/2010 \nCholestrol 188 mg/dl 150-250\n\n[Page 6]\n \n \n \nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35/MALE \n ------------------------------------------------------------------------------------------------------------- \n BIOCHEMISTRY \n-------------------------------------------------------------------------------------------------------------- \nInvestigation Observed Value Unit Biogical Reference Interval \n---------------------------------------------------------------------------------------------------------------------------------------- \nGGT 15.4 U/L <40 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n DR. MAIKAL KUJUR MBBS, MD \n PATHOLOGY (AIIMS, NEW DELHI) \n REG. NO. : CG MCI-2996/2010 \n \n \n \n\n[Page 7]\n \n \n \nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35"
+  },
+  {
+    "filename": "Medical Report.pdf",
+    "content": ", NEW DELHI) \n REG. NO. : CG MCI-2996/2010 \n \n \n \n\n[Page 7]\n \n \n \nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35/MALE \n------------------------------------------------------------------------------------------------------------- \nCLINICAL PATHOLOGY \n \n \nInvestigation Observed Value Unit Biogical Reference \nURINE FOR COTININE NEGATIVE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n DR. MAIKAL KUJUR MBBS, MD \n PATHOLOGY (AIIMS, NEW DELHI) \n REG. NO. : CG MCI-2996/2010 \n \n \n \n\n[Page 8]\n \n \n \nPATIENT NAME : MR NARENDRA SONI DATE: 21/03/2024 \nCONSULTANT DR. : HDFC LIFE AGE: 35/MALE \nUrine Routine Examination \n-------------------------------------------------------------------------------------------------------------------- \nINVESTIGATION OBSERVED VALUE BIOLOGICAL REFRENCE \nPhysical Examination \nQuantity 30 ml \nColour yellow Pale yellow \nAppearance Clear Clear \nDeposit Absent \nReaction (pH) Acidic Acidic \nSpecific Gravity 1.015 1.003-1.035 \nChemical Examination"
+  },
+  {
+    "filename": "Medical Report.pdf",
+    "content": "ur yellow Pale yellow \nAppearance Clear Clear \nDeposit Absent \nReaction (pH) Acidic Acidic \nSpecific Gravity 1.015 1.003-1.035 \nChemical Examination \nProtein Absent Absent \nGlucose Absent Absent \nMicroscopic Examination \nPus Cells 2-3 02-05 \nRed Blood Cells (RBC) Nil Absent \nEpithelial cells 1-3 00-02 \nCasts Absent Absent \nCrystals Absent Absent \nBacteria Absent Absent \n \n \n DR. MAIKAL KUJUR MBBS, MD \n PATHOLOGY (AIIMS, NEW DELHI) \n REG. NO. : CG MCI-2996/2010"
+  },
+  {
+    "filename": "Pune Property No dues Certificate.pdf",
+    "content": "[Page 1]\n \n \nOffice of the Assessor & Collector of Tax,\nPune Municipal Corporation, Pune.\nCertificate No : 846588\nDate :12-MAR-2025\nNo Dues Certificate (Property Tax)\n     This is to certify that, NARENDRA SONI  has paid a sum of Rs.27130/- in words Rupees Twenty\nSeven Thousand One Hundred Thirty Only received through Credit Card against Property ID -\nP/T/01/29878000 for due amount of Property Tax for the financial year 01-APR-2024 to 31-MAR-2025\nThere is NO DUES against above mentioned property at H.NO.30907 GAT NO 1427 102 LOHEGAON\nROAD WAGHOLI PUNE 412207\n     This  \" No Dues Certificate \"   having   Inward  Number  -  INNC-2425-4154 on dated 12-MAR-2025 is\nbeing issued on the specific online request by / on behalf  of  above named property tax holder.\n     In case any wrong information of the facts / data is provided, all  or  any part  of  this  certificate will be\nconsidered as null and void. If in any case of final inspection, any dues are found then it will be obligatory\nfor pr"
+  },
+  {
+    "filename": "Pune Property No dues Certificate.pdf",
+    "content": "t  of  this  certificate will be\nconsidered as null and void. If in any case of final inspection, any dues are found then it will be obligatory\nfor property tax payer to pay that amount.\nTotal ARV : 13000 / RESIDENTIAL\nAdministrative Officer\nAssessor & Collector of Tax,\nPune Municipal Corporation, Pune.\n \n                            (Scan this QR code for verification)\nNOTE: This is computer generated digitally signed certificate.Kindly scan above QR code to verify the authenticity\nof this certificate.You can also verify the no dues by entering Property Id on our webportal -\npropertytax.punecorporation.org"
+  },
+  {
+    "filename": "report.docx",
+    "content": "This is my company report. The IT department has 25 employees. The HR department has 10 employees."
+  }
+]

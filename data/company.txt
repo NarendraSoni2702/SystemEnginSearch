@@ -1,0 +1,14 @@
+Our company has three departments.
+
+The IT department has 25 employees.
+The HR department has 10 employees.
+The Finance department has 15 employees.
+
+John works in the IT department.
+John's salary is 50000.
+
+Sarah works in the HR department.
+Sarah's salary is 45000.
+
+Mike works in the Finance department.
+Mike's salary is 55000.

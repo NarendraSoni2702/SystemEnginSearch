@@ -1,0 +1,2 @@
+Hello, this is my first AI project.
+This file contains information that my AI will eventually learn to search.

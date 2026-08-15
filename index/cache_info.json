@@ -1,0 +1,8 @@
+{
+  "documents_hash": "9307167c6aec69c0720a06dbc8e83b835da99635d6bdb4f1ac4889d222d3c894",
+  "embedding_model": "nvidia/llama-nemotron-embed-vl-1b-v2:free",
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "number_of_chunks": 14,
+  "embedding_dimensions": 2048
+}
